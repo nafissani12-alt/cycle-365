@@ -546,7 +546,7 @@ export default function Home() {
     rel="noreferrer"
     className="font-semibold text-[#2388FF] transition hover:text-blue-700"
   >
-    Nafis Ahmednpm run build Sani ↗
+    Nafis Ahmed Sani ↗
   </a>
 </p>
 
