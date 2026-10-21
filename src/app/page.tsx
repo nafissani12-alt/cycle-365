@@ -529,7 +529,7 @@ export default function Home() {
           </div>
 
           <p className="mt-4">
-            © {new Date().getFullYear(2026)} Cycle 365. All rights reserved.
+            © 2026 Cycle 365. All rights reserved.
           </p>
           <a
             href="#home"
@@ -546,7 +546,7 @@ export default function Home() {
     rel="noreferrer"
     className="font-semibold text-[#2388FF] transition hover:text-blue-700"
   >
-    Nafis Ahmed Sani ↗
+    Nafis Ahmednpm run build Sani ↗
   </a>
 </p>
 

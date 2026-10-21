@@ -5,6 +5,7 @@ export type Product = {
   type: "Road Bike" | "Gravel Bike" | "TT Bike";
   price?: number;
   modelYear?: number;
+  image?: string;
   delivery: string;
   postUrl?: string;
 };
