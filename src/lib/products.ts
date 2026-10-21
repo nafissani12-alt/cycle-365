@@ -27,7 +27,7 @@ export const products: Product[] = [
     name: "Sunpeed Triton 2026",
     brand: "Sunpeed",
     type: "Road Bike",
-    price: 46999,
+    price: 47599,
     modelYear: 2026,
     image: "/images/sunpeed-triton.png",
     delivery: "15–25 working days",
@@ -139,6 +139,7 @@ export const products: Product[] = [
     name: "Twitter R10 Pro",
     brand: "Twitter",
     type: "Road Bike",
+    price: 165000,
     image: "/images/t10pro.png",
     delivery: "15–25 working days",
     postUrl:
