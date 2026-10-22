@@ -152,6 +152,7 @@ export const products: Product[] = [
     brand: "Java",
     type: "Road Bike",
     delivery: "15–25 working days",
+    price: 155000,
     image: "/images/javatop6.png",
     postUrl:
       "https://www.facebook.com/share/p/19mEGgcBWz/",
