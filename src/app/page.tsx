@@ -87,7 +87,7 @@ export default function Home() {
               rel="noreferrer"
               className="hidden rounded-full bg-[#2388FF] px-5 py-3 text-sm font-bold text-white transition hover:bg-blue-700 sm:inline-flex"
             >
-              Enquire Now ↗
+              Massage Now ↗
             </a>
 
             <button
@@ -382,7 +382,7 @@ export default function Home() {
                   rel="noreferrer"
                   className="mt-4 flex w-full items-center justify-center gap-2 rounded-full bg-[#101827] px-4 py-3.5 text-sm font-bold text-white transition hover:bg-[#2388FF]"
                 >
-                  Enquire About This Bike <span>↗</span>
+                  About This Bike <span>↗</span>
                 </a>
 
                 {product.postUrl && (
